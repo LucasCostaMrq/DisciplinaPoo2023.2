@@ -1,5 +1,5 @@
 <h1>Lista 01</h1>
-<h2>Capítulo 3: Estrutura SequenciaL <img align="center" alt="Lucas-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> </h2>
+<h2>Capítulo 3: Estrutura Sequencial <img align="center" alt="Lucas-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> </h2>
 <hr>
 <h3>Questões Resolvidas:</h3>
 
@@ -58,3 +58,14 @@ de um veículo, o percentual de lucro do distribuidor e o percentual de impostos
 a) o valor correspondente ao lucro do distribuidor; <br>
 b) o valor correspondente aos impostos; <br>
 c) o preço final do veículo.</h4>
+
+<h4>19. Cada degrau de uma escada tem X de altura. Faça um programa que receba essa altura e a altura que <br>
+o usuário deseja alcançar subindo a escada, calcule e mostre quantos degraus ele deverá subir para <br>
+atingir seu objetivo, sem se preocupar com a altura do usuário. Todas as medidas fornecidas devem <br>
+estar em metros.</h4>
+
+<h4>20. Faça um programa que receba a medida do ângulo (em graus) formado por uma escada apoiada no <br>
+chão e encostada na parede e a altura da parede onde está a ponta da escada. Calcule e mostre a medida <br>
+dessa escada. <br>
+Observação: as funções trigonométricas implementadas nas linguagens de programação trabalham <br>
+com medidas de ângulos em radianos.</h4>
