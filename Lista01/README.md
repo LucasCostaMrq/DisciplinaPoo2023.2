@@ -1,1 +1,60 @@
-Lista de execícios da primeira lista
+<h1>Lista 01</h1>
+<h2>Capítulo 3: Estrutura SequenciaL <img align="center" alt="Lucas-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> </h2>
+<hr>
+<h3>Questões Resolvidas:</h3>
+
+<h4>1. Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.</h4>
+
+<h4>2. Faça um programa que receba três notas, calcule e mostre a média aritmética.</h4>
+
+<h4>3. Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada</h4>
+
+<h4>4. Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, <br> sabendo-se
+que este sofreu um aumento de 25%.</h4>
+
+<h4>5. Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule <br> e mostre
+o valor do aumento e o novo salário.</h4>
+
+<h4>6. Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a <br> receber,
+sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga <br> imposto de 7% também
+sobre o salário base.</h4>
+
+<h4>7. Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário <br> a receber,
+sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o <br> salário base.</h4>
+
+<h4>8. Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e <br> mostre o
+valor do rendimento e o valor total depois do rendimento.</h4>
+
+<h4>9. Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura)/2.</h4>
+
+<h4>10. Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = p * R2.</h4>
+
+<h4>11. Faça um programa que receba um número positivo e maior que zero, calcule e mostre: <br>
+a) o número digitado ao quadrado; <br>
+b) o número digitado ao cubo; <br>
+c) a raiz quadrada do número digitado; <br>
+d) a raiz cúbica do número digitado.</h4>
+
+<h4>12. Faça um programa que receba dois números maiores que zero, calcule e mostre um elevado ao outro</h4>
+
+<h4>13. Sabe-se que: <br>
+<ul>
+  <li>pé = 12 polegadas</li> 
+  <li>1 jarda = 3 pés</li> 
+  <li>1 milha = 1,760 jarda</li>
+</ul>
+Faça um programa que receba uma medida em pés, faça as conversões a seguir e mostre os resultados. <br>
+a) polegadas; <br>
+b) jardas; <br>
+c) milhas.</h4>
+
+<h4>14. Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre: <br>
+a) a idade dessa pessoa; <br>
+b) quantos anos ela terá em 2050.</h4>
+
+<h4>15. O custo ao consumidor de um carro novo é a soma do preço de fábrica com o percentual de lucro do <br>
+distribuidor e dos impostos aplicados ao preço de fábrica. Faça um programa que receba o preço de fábrica <br>
+de um veículo, o percentual de lucro do distribuidor e o percentual de impostos, calcule e mostre: <br>
+a) o valor correspondente ao lucro do distribuidor; <br>
+b) o valor correspondente aos impostos; <br>
+c) o preço final do veículo.</h4>
