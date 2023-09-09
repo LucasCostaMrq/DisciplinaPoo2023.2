@@ -85,3 +85,29 @@ chão e encostada na parede e a altura da parede onde está a ponta da escada. C
 dessa escada. <br>
 Observação: as funções trigonométricas implementadas nas linguagens de programação trabalham <br>
 com medidas de ângulos em radianos.</h4>
+
+<h4>21. Uma pessoa deseja pregar um quadro em uma parede. Faça um programa para calcular e mostrar a <br>
+que distância a escada deve estar da parede. A pessoa deve fornecer o tamanho da escada e a altura em <br>
+que deseja pregar o quadro. <br>
+Lembre-se de que o tamanho da escada deve ser maior que a altura que se deseja alcançar</h4>
+
+<h4>22. Sabe-se que o quilowatt de energia custa um quinto do salário mínimo. Faça um programa que receba <br>
+o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência. Calcule e <br>
+mostre: <br>
+a) o valor de cada quilowatt; <br>
+b) o valor a ser pago por essa residência; <br>
+c) o valor a ser pago com desconto de 15%.</h4>
+
+<h4>23. Faça um programa que receba um número real, encontre e mostre: <br>
+a) a parte inteira desse número; <br>
+b) a parte fracionária desse número; <br>
+c) o arredondamento desse número.</h4>
+
+<h4>24. Faça um programa que receba uma hora formada por hora e minutos (um número real), calcule e <br>
+mostre a hora digitada apenas em minutos. Lembre-se de que: <br>
+OBS<sub>1</sub>: para quatro e meia, deve-se digitar 4.30; <br>
+OBS<sub>2</sub>: os minutos vão de 0 a 59.</h4>
+
+<h4>25. Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo. <br>
+Esse programa deverá calcular e mostrar a quantidade de convites que devem ser vendidos para que, <br>
+pelo menos, o custo do espetáculo seja alcançado.</h4>
