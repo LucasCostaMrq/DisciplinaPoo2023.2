@@ -26,9 +26,8 @@
 <hr>
 <h2>Equipe:</h2>
 <h3>
-  Lucas Costa Marques <br>
-  github: https://github.com/LucasCostaMrq <br>
-  <br>
-  Jonas Freitas <br>
-  github: https://github.com/jonassf79
+  <ul>
+    <li><a target="_blank" href="https://github.com/LucasCostaMrq ">Lucas Costa Marques</a></li>
+    <li><a target="_blank" href="https://github.com/jonassf79">Jonas Freitas</a></li>
+  </ul> 
 </h3>
