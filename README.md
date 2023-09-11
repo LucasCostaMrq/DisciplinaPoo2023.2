@@ -1,5 +1,5 @@
-<h1>DisciplinaPoo2023.2</h1>
-<h2>Lista de exercícios POO 2023.2 <img align="center" alt="Lucas-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></h2>
+<h1 align="center">DisciplinaPoo2023.2</h1>
+<h2 align="center">Lista de exercícios POO 2023.2 <img align="center" alt="Lucas-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></h2>
 <h3>Lista 01: Resolução dos Exercícios Resolvidos do capítulo 3 + 10 Exercícios Propostos sorteados.</h3>
 <h4>
   <ul>
