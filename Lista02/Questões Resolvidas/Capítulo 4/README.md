@@ -1,5 +1,5 @@
 <h2 align="center">Capítulo 4: Estrutura Condicional <img align="center" alt="Lucas-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></h2>
-<h3>Questôes resolvidas:</h3>
+<h3>Questões resolvidas:</h3>
 
 <h4>1. A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho <br>
 de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas <br>
