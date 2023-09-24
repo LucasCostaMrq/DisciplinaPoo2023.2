@@ -47,3 +47,46 @@ terminar no dia seguinte.</h4>
 
 <h4>12. Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual <br>
 e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir.</h4>
+
+| Código | Cargo | PercenTual |
+| ------------- | ------------- | -------------- |
+| 1 | Escriturário | |
+| 2 | Secretário | |
+| 3 | Caixa | |
+| 4 | Gerente | |
+| 5| Diretor | |
+
+<h4>13. Faça um programa que apresente o menu a seguir, permita ao usuário escolher a opção desejada, receba<br>
+os dados necessários para executar a operação e mostre o resultado. Verifique a possibilidade de<br>
+opção inválida e não se preocupe com restrições, como salário negativo.<br>
+Menu de opções:<br>
+1. Imposto<br>
+2. Novo salário<br>
+3. Classificação<br>
+Digite a opção desejada.<br>
+<br>
+Na opção 1: receber o salário de um funcionário, calcular e mostrar o valor do imposto usando as regras<br>
+a seguir.</h4>
+
+| Salário  | Percentual Imposto |
+| ------------- | ------------- |
+| Menor que R$ 500,00  | 5%  |
+| De R$ 500,00 (inclusive) a R$ 850,00 (inclusive) | 10%  |
+| Acima de R$ 850,00 | 15% |
+
+<h4>Na opção 2: receber o salário de um funcionário, calcular e mostrar o valor do novo salário, usando as
+regras a seguir.</h4>
+
+| Salário  | Aumento |
+| ------------- | ------------- |
+| Maior que R$ 1.500,00 | R$ 25,00 |
+| De R$ 750,00 (inclusive) a R$ 1.500,00 (inclusive) | R$ 50,00 |
+| De R$ 450,00 (inclusive) a R$ 750,00 | R$ 75,00 |
+| Menor que R$ 450,00 | R$ 100,00 |
+
+<h4>Na opção 3: receber o salário de um funcionário e mostrar sua classificação usando a tabela a seguir.</h4>
+
+| Salário  | Classificação |
+| ------------- | ------------- |
+| Até R$ 700,00 (inclusive) | Mal remunerado |
+| Maiores que R$ 700,00 | Bem remunerado |
