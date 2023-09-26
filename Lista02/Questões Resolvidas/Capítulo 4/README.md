@@ -50,11 +50,11 @@ e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na ta
 
 | Código | Cargo | PercenTual |
 | ------------- | ------------- | -------------- |
-| 1 | Escriturário | |
-| 2 | Secretário | |
-| 3 | Caixa | |
-| 4 | Gerente | |
-| 5| Diretor | |
+| 1 | Escriturário | 50% |
+| 2 | Secretário | 35% |
+| 3 | Caixa | 20% |
+| 4 | Gerente | 10% |
+| 5| Diretor | Não tem aumento |
 
 <h4>13. Faça um programa que apresente o menu a seguir, permita ao usuário escolher a opção desejada, receba<br>
 os dados necessários para executar a operação e mostre o resultado. Verifique a possibilidade de<br>
