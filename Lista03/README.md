@@ -7,7 +7,7 @@
   </h1>
 </div>
 
-Bem-vindo ao diretório de atividades dos Capítulos 6, 7 e 8! Este repositório contém 15 programas Java, divididos em os 3 capítulos. Cada capítulo apresenta 5 questões resolvidas sorteadas aleatoriamente a partir de um conjunto de 25 questões possíveis.
+Bem-vindo ao diretório de atividades dos Capítulos 6, 7 e 8! Este repositório contém 15 programas Java, divididos entre os 3 capítulos. Cada capítulo apresenta 5 questões resolvidas sorteadas aleatoriamente a partir de um conjunto de 25 questões possíveis.
 
 ## Estrutura do Diretório
 
