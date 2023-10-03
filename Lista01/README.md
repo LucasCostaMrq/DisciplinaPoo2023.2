@@ -42,18 +42,18 @@ Para executar os programas Java, siga as etapas abaixo:
     
     <h2>Questões Resolvidas</h2>
     <ul>
-        <li><a href="br/edu/principal/Questao1.java">Nome da Questão Resolvida 1</a></li>
-        <li><a href="br/edu/principal/Questao2.java">Nome da Questão Resolvida 2</a></li>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q1R/src/br/edu/principal/Principal.java">Q01R ou Q1R</a></li>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q2R/src/br/edu/principal/Principal.java">Q02R ou Q2R</a></li>
         <!-- ... -->
-        <li><a href="br/edu/principal/Questao25.java">Nome da Questão Resolvida 25</a></li>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q25R/src/br/edu/principal/Principal.java">Q25R</a></li>
     </ul>
     
     <h2>Questões Propostas</h2>
     <ul>
-        <li><a href="QuestoesPropostas/Questao1.java">Nome da Questão Proposta 1</a></li>
-        <li><a href="QuestoesPropostas/Questao2.java">Nome da Questão Proposta 2</a></li>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Propostas/Q8P/src/br/edu/principal/Principal.java">Q08P ou Q8P</a></li>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Propostas/Q10P/src/br/edu/principal/Principal.java">Q10P</a></li>
         <!-- ... -->
-        <li><a href="QuestoesPropostas/Questao10.java">Nome da Questão Proposta 10</a></li>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Propostas/Q24P/src/br/edu/principal/Principal.java">Q24P</a></li>
     </ul>
     
     <h2>Como Executar os Programas</h2>
