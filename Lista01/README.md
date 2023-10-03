@@ -15,12 +15,12 @@ Este diretório contém 25 questões resolvidas. Cada programa está organizado 
 
 ## Questões Propostas
 
-Além das questões resolvidas, também temos 10 questões propostas. Você pode usar essas questões como exercícios práticos para testar suas habilidades em estruturas sequenciais. Elas estão localizadas na pasta `QuestoesPropostas`:
+Além das questões resolvidas, também temos 10 questões propostas, as quais foram sorteadas aleatoriamente. Você pode usar essas questões como exercícios práticos para testar suas habilidades em estruturas sequenciais. Elas estão localizadas na pasta `QuestoesPropostas`:
 
-1. [Nome da Questão Proposta 1](QuestoesPropostas/Questao1.java)
-2. [Nome da Questão Proposta 2](QuestoesPropostas/Questao2.java)
+1. <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Propostas/Q8P/src/br/edu/principal/Principal.java">Q08P ou Q8P</a>
+2. <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Propostas/Q10P/src/br/edu/principal/Principal.java">Q10P</a>
 3. ...
-4. [Nome da Questão Proposta 10](QuestoesPropostas/Questao10.java)
+4. <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Propostas/Q24P/src/br/edu/principal/Principal.java">Q24P</a>
 
 ## Como Executar os Programas
 
