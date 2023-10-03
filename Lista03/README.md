@@ -6,3 +6,71 @@
     <img align="center" alt="Lucas-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </h1>
 </div>
+# Diretório de Atividades em Java
+
+Bem-vindo ao diretório de atividades em Java! Este repositório contém 15 programas Java, divididos em três capítulos: Vetor, Matriz e Sub-rotina. Cada capítulo apresenta 5 questões resolvidas aleatoriamente a partir de um conjunto de 25 questões possíveis.
+
+## Estrutura do Diretório
+
+Cada Atividade está localizada dentro de pastas, as quais começam com QXR (Questão X Resolvida), representando qual questão da lista das questões resolvidas ela é. Logo após entrar nessa pasta, o usoário deve ir em `src`, nessa pasta estarão outras duas pastas, o `bin` e o `br`, a pasta `bin` irá lhe direcionar para o arquivo da classe `Principal.class` do nosso arquivo em java, para acessar o arquivo `Principal.java`, vá para o package (pacote) `br.edu.principal`.
+
+### Capítulo: Vetor
+
+### Capítulo: Matriz
+
+### Capítulo: Sub-rotina
+
+## Como Executar os Programas
+
+Para executar os programas Java, siga as etapas abaixo:
+
+1. Certifique-se de que você tenha o Java instalado em seu sistema.
+2. Navegue até o diretório do programa que você deseja executar (por exemplo, `br.edu.principal` para questões resolvidas).
+3. Compile o arquivo `.java` usando o comando `javac` (por exemplo, `javac Questao1.java`).
+4. Execute o programa Java compilado com o comando `java` (por exemplo, `java Questao1`).
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Atividades de Programação em Java</title>
+</head>
+<body>
+    <h1>Atividades de Programação em Java - Estruturas Sequenciais</h1>
+    
+    <h2>Vetor</h2>
+    <ul>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q1R/src/br/edu/principal/Principal.java">Q01R ou Q1R</a></li>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q2R/src/br/edu/principal/Principal.java">Q02R ou Q2R</a></li>
+        <!-- ... -->
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q25R/src/br/edu/principal/Principal.java">Q25R</a></li>
+    </ul>
+    
+    <h2>Matriz</h2>  
+    <ul>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q1R/src/br/edu/principal/Principal.java">Q01R ou Q1R</a></li>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q2R/src/br/edu/principal/Principal.java">Q02R ou Q2R</a></li>
+        <!-- ... -->
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q25R/src/br/edu/principal/Principal.java">Q25R</a></li>
+    </ul>
+    
+     <h2>Sub-rotina</h2>  
+    <ul>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q1R/src/br/edu/principal/Principal.java">Q01R ou Q1R</a></li>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q2R/src/br/edu/principal/Principal.java">Q02R ou Q2R</a></li>
+        <!-- ... -->
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q25R/src/br/edu/principal/Principal.java">Q25R</a></li>
+    </ul>
+
+    <h2>Como Executar os Programas</h2>
+    <ol>
+        <li>Certifique-se de que você tenha o Java instalado em seu sistema.</li>
+        <li>Navegue até o diretório do programa que você deseja executar (por exemplo, `br.edu.principal` para questões resolvidas).</li>
+        <li>Compile o arquivo `.java` usando o comando `javac` (por exemplo, `javac Questao1.java`).</li>
+        <li>Execute o programa Java compilado com o comando `java` (por exemplo, `java Questao1`).</li>
+    </ol>
+</body>
+</html>
+````
+
+**Divirta-se programando!**
