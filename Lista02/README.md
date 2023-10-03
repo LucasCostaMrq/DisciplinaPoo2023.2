@@ -92,3 +92,12 @@ Para executar os programas Java, siga as etapas abaixo:
        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%205/Q19P/src/br/edu/principal/Principal.java">Q19P</a></li> 
        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%205/Q24P/src/br/edu/principal/Principal.java">Q24P</a></li>
     </ul>
+ <h2>Como Executar os Programas</h2>
+    <ol>
+        <li>Certifique-se de que você tenha o Java instalado em seu sistema.</li>
+        <li>Navegue até o diretório do programa que você deseja executar (por exemplo, `br.edu.principal` para questões resolvidas).</li>
+        <li>Compile o arquivo `.java` usando o comando `javac` (por exemplo, `javac Questao1.java`).</li>
+        <li>Execute o programa Java compilado com o comando `java` (por exemplo, `java Questao1`).</li>
+    </ol>
+</body>
+</html>
