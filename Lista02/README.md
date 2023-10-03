@@ -62,32 +62,33 @@ Para executar os programas Java, siga as etapas abaixo:
     <h2>Questões Resolvidas</h2>
     <h3>Estrutura Condicional</h3>
     <ul>
-        <li><a href="br/edu/principal/EstruturaCondicional/Questao1.java">Questão Resolvida 1 - Estrutura Condicional</a></li>
-        <li><a href="br/edu/principal/EstruturaCondicional/Questao2.java">Questão Resolvida 2 - Estrutura Condicional</a></li>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q1R/src/br/edu/principal/Principal.java">Q01R ou Q1R</a></li>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q2R/src/br/edu/principal/Principal.java">Q02R ou Q2R</a></li>
         <!-- ... -->
-        <li><a href="br/edu/principal/EstruturaCondicional/Questao25.java">Questão Resolvida 25 - Estrutura Condicional</a></li>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q25R/src/br/edu/principal/Principal.java">Q25R</a></li>
     </ul>
     
     <h3>Estrutura de Repetição</h3>
     <ul>
-        <li><a href="br/edu/principal/EstruturaRepeticao/Questao1.java">Questão Resolvida 1 - Estrutura de Repetição</a></li>
-        <li><a href="br/edu/principal/EstruturaRepeticao/Questao2.java">Questão Resolvida 2 - Estrutura de Repetição</a></li>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%205/Q1R/src/br/edu/principal/Principal.java">Q01R ou Q1R</a></li>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%205/Q2R/src/br/edu/principal/Principal.java">Q02R ou Q2R</a></li>
         <!-- ... -->
-        <li><a href="br/edu/principal/EstruturaRepeticao/Questao25.java">Questão Resolvida 25 - Estrutura de Repetição</a></li>
+        <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%205/Q25R/src/br/edu/principal/Principal.java">Q25R</a></li>
     </ul>
     
     <h2>Questões Propostas</h2>
     <h3>Estrutura Condicional</h3>
+    <h4>Exemplos de Atividades</h4>
     <ul>
-        <li><a href="QuestoesPropostasCondicional/Questao1.java">Questão Proposta 1 - Estrutura Condicional</a></li>
-        <li><a href="QuestoesPropostasCondicional/Questao2.java">Questão Proposta 2 - Estrutura Condicional</a></li>
-        <!-- ... -->
-        <li><a href="QuestoesPropostasCondicional/Questao5.java">Questão Proposta 5 - Estrutura Condicional</a></li>
+       <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%205/Q3P/src/br/edu/principal/Principal.java">Q03P ou Q3P</a></li> 
+       <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%205/Q19P/src/br/edu/principal/Principal.java">Q19P</a></li> 
+       <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%205/Q24P/src/br/edu/principal/Principal.java">Q24P</a></li>
     </ul>
     
     <h3>Estrutura de Repetição</h3>
+    <h4>Exemplos de Atividades</h4>
     <ul>
-        <li><a href="QuestoesPropostasRepeticao/Questao1.java">Questão Proposta 1 - Estrutura de Repetição</a></li>
-        <li><a href="QuestoesPropostasRepeticao/Questao2.java">Questão Proposta 2 - Estrutura de Repetição</a></li>
-        <!-- ... -->
-        <li><a href="QuestoesPropostas
+       <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%205/Q3P/src/br/edu/principal/Principal.java">Q03P ou Q3P</a></li> 
+       <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%205/Q19P/src/br/edu/principal/Principal.java">Q19P</a></li> 
+       <li><a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%205/Q24P/src/br/edu/principal/Principal.java">Q24P</a></li>
+    </ul>
