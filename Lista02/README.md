@@ -31,9 +31,9 @@ Além das questões resolvidas, também temos 5 questões propostas para cada um
 
 ### Estrutura Condicional
 Exemplos de Atividades: <br>
-[Q02P ou Q2P](QuestoesPropostasCondicional/Questao2.java) <br>
-[Q10P](QuestoesPropostasCondicional/Questao2.java) <br>
-[Q11P](QuestoesPropostasCondicional/Questao5.java) <br>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%204/Q10P/src/br/edu/principal/Principal.java">Q10P</a> <br>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%204/Q17P/src/br/edu/principal/Principal.java">Q17P</a> <br>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%204/Q23P/src/br/edu/principal/Principal.java">Q23P</a> <br>
 
 ### Estrutura de Repetição 
 Exemplos de Atividades: <br>
