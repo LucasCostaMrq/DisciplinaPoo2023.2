@@ -15,9 +15,9 @@ Cada Atividade está localizada dentro de pastas, as quais começam com QXR (Que
 
 A seguir, veremos alguns exemplos de atividades de cada capítulo
 ### Capítulo: Vetor
-<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%206/Q11R/src/br/edu/principal/Principal.java">Q11R</a>
-<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%206/Q22R/src/br/edu/principal/Principal.java">Q22R</a>
-<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%206/Q25R/src/br/edu/principal/Principal.java">Q25R</a>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%206/Q11R/src/br/edu/principal/Principal.java">Q11R</a> <br>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%206/Q22R/src/br/edu/principal/Principal.java">Q22R</a> <br>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%206/Q25R/src/br/edu/principal/Principal.java">Q25R</a> <br>
 ### Capítulo: Matriz
 
 ### Capítulo: Sub-rotina
