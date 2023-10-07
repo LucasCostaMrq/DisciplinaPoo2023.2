@@ -3,8 +3,6 @@
 <hr>
 <h3>Questões Resolvidas:</h3>
 
-Peço desculpas pela confusão anterior. Aqui estão os links com o número da questão substituído:
-
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q1R/src/br/edu/principal/Principal.java">1. </a>Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q2R/src/br/edu/principal/Principal.java">2. </a>Faça um programa que receba três notas, calcule e mostre a média aritmética.
@@ -25,19 +23,19 @@ Peço desculpas pela confusão anterior. Aqui estão os links com o número da q
 
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q10R/src/br/edu/principal/Principal.java">10. </a>Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = p * R2.
 
-<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q11R/src/br/edu/principal/Principal.java">11. </a>Faça um programa que receba um número positivo e maior que zero, calcule e mostre: a) o número digitado ao quadrado; b) o número digitado ao cubo; c) a raiz quadrada do número digitado; d) a raiz cúbica do número digitado.
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q11R/src/br/edu/principal/Principal.java">11. </a>Faça um programa que receba um número positivo e maior que zero, calcule e mostre: <br>a) o número digitado ao quadrado; <br>b) o número digitado ao cubo; <br>c) a raiz quadrada do número digitado; <br>d) a raiz cúbica do número digitado.
 
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q12R/src/br/edu/principal/Principal.java">12. </a>Faça um programa que receba dois números maiores que zero, calcule e mostre um elevado ao outro.
 
-<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q13R/src/br/edu/principal/Principal.java">13. </a>Sabe-se que: pé = 12 polegadas, 1 jarda = 3 pés e 1 milha = 1,760 jardas. Faça um programa que receba uma medida em pés, faça as conversões a seguir e mostre os resultados. a) polegadas; b) jardas; c) milhas.
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q13R/src/br/edu/principal/Principal.java">13. </a>Sabe-se que: pé = 12 polegadas, 1 jarda = 3 pés e 1 milha = 1,760 jardas. Faça um programa que receba uma medida em pés, faça as conversões a seguir e mostre os resultados. <br>a) polegadas;<br>b) jardas; <br>c) milhas.
 
-<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q14R/src/br/edu/principal/Principal.java">14. </a>Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre: a) a idade dessa pessoa; b) quantos anos ela terá em 2050.
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q14R/src/br/edu/principal/Principal.java">14. </a>Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre: <br>a) a idade dessa pessoa; <br>b) quantos anos ela terá em 2050.
 
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q15R/src/br/edu/principal/Principal.java">15. </a>O custo ao consumidor de um carro novo é a soma do preço de fábrica com o percentual de lucro do distribuidor e dos impostos aplic
 
-ados ao preço de fábrica. Faça um programa que receba o preço de fábrica de um veículo, o percentual de lucro do distribuidor e o percentual de impostos, calcule e mostre: a) o valor correspondente ao lucro do distribuidor; b) o valor correspondente aos impostos; c) o preço final do veículo.
+ados ao preço de fábrica. Faça um programa que receba o preço de fábrica de um veículo, o percentual de lucro do distribuidor e o percentual de impostos, calcule e mostre: a) o valor correspondente ao lucro do distribuidor; <br>b) o valor correspondente aos impostos; <br>c) o preço final do veículo.
 
-<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q16R/src/br/edu/principal/Principal.java">16. </a>Faça um programa que receba o número de horas trabalhadas e o valor do salário mínimo, calcule e mostre o salário a receber, seguindo estas regras: a) a hora trabalhada vale a metade do salário mínimo. b) o salário bruto equivale ao número de horas trabalhadas multiplicado pelo valor da hora trabalhada. c) o imposto equivale a 3% do salário bruto. d) o salário a receber equivale ao salário bruto menos o imposto.
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q16R/src/br/edu/principal/Principal.java">16. </a>Faça um programa que receba o número de horas trabalhadas e o valor do salário mínimo, calcule e mostre o salário a receber, seguindo estas regras: <br> a) a hora trabalhada vale a metade do salário mínimo. b) o salário bruto equivale ao número de horas trabalhadas multiplicado pelo valor da hora trabalhada.  <br> c) o imposto equivale a 3% do salário bruto. <br> d) o salário a receber equivale ao salário bruto menos o imposto.
 
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q17R/src/br/edu/principal/Principal.java">17. </a>Um trabalhador recebeu seu salário e o depositou em sua conta bancária. Esse trabalhador emitiu dois cheques e agora deseja saber seu saldo atual. Sabe-se que cada operação bancária de retirada paga CPMF de 0,38% e o saldo inicial da conta está zerado.
 
@@ -49,11 +47,11 @@ ados ao preço de fábrica. Faça um programa que receba o preço de fábrica de
 
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q21R/src/br/edu/principal/Principal.java">21. </a>Uma pessoa deseja pregar um quadro em uma parede. Faça um programa para calcular e mostrar a que distância a escada deve estar da parede. A pessoa deve fornecer o tamanho da escada e a altura em que deseja pregar o quadro. Lembre-se de que o tamanho da escada deve ser maior que a altura que se deseja alcançar.
 
-<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q22R/src/br/edu/principal/Principal.java">22. </a>Sabe-se que o quilowatt de energia custa um quinto do salário mínimo. Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência. Calcule e mostre: a) o valor de cada quilowatt; b) o valor a ser pago por essa residência; c) o valor a ser pago com desconto de 15%.
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q22R/src/br/edu/principal/Principal.java">22. </a>Sabe-se que o quilowatt de energia custa um quinto do salário mínimo. Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência. Calcule e mostre: <br>a) o valor de cada quilowatt; <br>b) o valor a ser pago por essa residência; <br>c) o valor a ser pago com desconto de 15%.
 
-<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q23R/src/br/edu/principal/Principal.java">23. </a>Faça um programa que receba um número real, encontre e mostre: a) a parte inteira desse número; b) a parte fracionária desse número; c) o arredondamento desse número.
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q23R/src/br/edu/principal/Principal.java">23. </a>Faça um programa que receba um número real, encontre e mostre: <br>a) a parte inteira desse número; <br>b) a parte fracionária desse número; <br>c) o arredondamento desse número.
 
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvid
-as/Q24R/src/br/edu/principal/Principal.java">24</a>Faça um programa que receba uma hora formada por hora e minutos (um número real), calcule e mostre a hora digitada apenas em minutos. Lembre-se de que: OBS1: para quatro e meia, deve-se digitar 4.30; OBS2: os minutos vão de 0 a 59.
+as/Q24R/src/br/edu/principal/Principal.java">24</a>Faça um programa que receba uma hora formada por hora e minutos (um número real), calcule e mostre a hora digitada apenas em minutos. Lembre-se de que: <br>OBS1: para quatro e meia, deve-se digitar 4.30; <br>OBS2: os minutos vão de 0 a 59.
 
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q25R/src/br/edu/principal/Principal.java">25. </a>Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo. Esse programa deverá calcular e mostrar a quantidade de convites que devem ser vendidos para que, pelo menos, o custo do espetáculo seja alcançado.
