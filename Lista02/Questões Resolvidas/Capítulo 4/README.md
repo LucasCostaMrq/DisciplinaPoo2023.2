@@ -1,202 +1,57 @@
 <h2 align="center">Capítulo 4: Estrutura Condicional <img align="center" alt="Lucas-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></h2>
 <h3>Questões resolvidas:</h3>
 
-<h4>1. A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho <br>
-de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas <br>
-obedece aos pesos a seguir: <br> <br> Faça um programa que receba as três notas, calcule e mostre a média ponderada e o conceito que segue <br>
-a tabela:</h4>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q1R/src/br/edu/principal">1. </a>A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas obedece aos pesos a seguir.
 
-<h4>2. Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagem <br>
-constante na tabela a seguir. Aos alunos que ficaram para exame, calcule e mostre a nota que deverão <br>
-tirar para serem aprovados, considerando que a média exigida é 6,0.</h4>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q2R/src/br/edu/principal">2. </a>Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagem constante na tabela a seguir. <br>Aos alunos que ficaram para exame, calcule e mostre a nota que deverão tirar para serem aprovados, considerando que a média exigida é 6,0.
 
-<h4>3. Faça um programa que receba dois números e mostre o maior.</h4>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q3R/src/br/edu/principal">3. </a>Faça um programa que receba dois números e mostre o maior.
 
-<h4>4. Faça um programa que receba três números e mostre-os em ordem crescente. Suponha que o usuário <br>
-digitará três números diferentes.</h4>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q4R/src/br/edu/principal">4. </a>Faça um programa que receba três números e mostre-os em ordem crescente. Suponha que o usuário digitará três números diferentes.
 
-<h4>5. Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número <br>
-que não siga essa regra. Mostre, em seguida, os quatro números em ordem decrescente. Suponha <br>
-que o usuário digitará quatro números diferentes.</h4>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q5R/src/br/edu/principal">5. </a>Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga essa regra. Mostre, em seguida, os quatro números em ordem decrescente. Suponha que o usuário digitará quatro números diferentes.
 
-<h4>6. Faça um programa que receba um número inteiro e verifique se é par ou ímpar.</h4>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q6R/src/br/edu/principal">6. </a>Faça um programa que receba um número inteiro e verifique se é par ou ímpar.
 
-<h4>7. Faça um programa que receba quatro valores: I, A, B e C. Desses valores, I é inteiro e positivo, A, B e <br>
-C são reais. Escreva os números A, B e C obedecendo à tabela a seguir. <br>
-Suponha que o valor digitado para I seja sempre um valor válido, ou seja, 1, 2 ou 3, e que os números <br>
-digitados sejam diferentes um do outro.</h4>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q7R/src/br/edu/principal">7. </a>Faça um programa que receba quatro valores: I, A, B e C. Desses valores, I é inteiro e positivo, A, B e C são reais. Escreva os números A, B e C obedecendo à tabela a seguir. Suponha que o valor digitado para I seja sempre um valor válido, ou seja, 1, 2 ou 3, e que os números digitados sejam diferentes um do outro.
 
-<h4>8. Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados necessários <br>
-para executar cada operação. <br>
-Menu de opções: <br>
-1. Somar dois números. <br>
-2. Raiz quadrada de um número. <br>
-Digite a opção desejada:</h4>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q8R/src/br/edu/principal">8. </a>Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados necessários para executar cada operação. <br>Menu de opções: <br>1. Somar dois números. <br>2. Raiz quadrada de um número. <br>Digite a opção desejada.
 
-<h4>9. Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA – <br>
-mês por extenso e hora:minuto.</h4>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q9R/src/br/edu/principal">9. </a>Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA – mês por extenso e hora:minuto.
 
-<h4>10. Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelo <br>
-usuário. Cada data deve ser composta por três valores inteiros, em que o primeiro representa o dia, o <br>
-segundo, o mês e o terceiro, o ano.</h4>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q10R/src/br/edu/principal">10. </a>Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelo usuário. Cada data deve ser composta por três valores inteiros, em que o primeiro representa o dia, o segundo, o mês e o terceiro, o ano.
 
-<h4>11. Faça um programa que receba a hora do início de um jogo e a hora do término (cada hora é composta <br>
-por duas variáveis inteiras: hora e minuto). Calcule e mostre a duração do jogo (horas e minutos), <br>
-sabendo que o tempo máximo de duração do jogo é de 24 horas e que ele pode começar em um dia e <br>
-terminar no dia seguinte.</h4>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q11R/src/br/edu/principal">11. </a>Faça um programa que receba a hora do início de um jogo e a hora do término (cada hora é composta por duas variáveis inteiras: hora e minuto). Calcule e mostre a duração do jogo (horas e minutos), sabendo que o tempo máximo de duração do jogo é de 24 horas e que ele pode começar em um dia e terminar no dia seguinte.
 
-<h4>12. Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual <br>
-e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir.</h4>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q12R/src/br/edu/principal">12. </a>Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir.
 
-<h4>13. Faça um programa que apresente o menu a seguir, permita ao usuário escolher a opção desejada, receba<br>
-os dados necessários para executar a operação e mostre o resultado. Verifique a possibilidade de<br>
-opção inválida e não se preocupe com restrições, como salário negativo.<br>
-Menu de opções:<br>
-1. Imposto<br>
-2. Novo salário<br>
-3. Classificação<br>
-Digite a opção desejada.<br>
-<br>
-Na opção 1: receber o salário de um funcionário, calcular e mostrar o valor do imposto usando as regras<br>
-a seguir.</h4>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q13R/src/br/edu/principal">13. </a>Faça um programa que apresente o menu a seguir, permita ao usuário escolher a opção desejada, receba os dados necessários para executar a operação e mostre o resultado. Verifique a possibilidade de opção inválida e não se preocupe com restrições, como salário negativo. <br>Menu de opções: <br>1. Imposto <br>2. Novo salário <br>3. Classificação <br>Digite a opção desejada.
 
-<h4>Na opção 2: receber o salário de um funcionário, calcular e mostrar o valor do novo salário, usando as
-regras a seguir.</h4>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q14R/src/br/edu/principal">14. </a>Faça um programa que receba o salário inicial de um funcionário, calcule e mostre o novo salário, acrescido de bonificação e de auxílio escola.
 
-<h4>Na opção 3: receber o salário de um funcionário e mostrar sua classificação usando a tabela a seguir.</h4>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q15R/src/br/edu/principal">15. </a>Faça um programa que receba o valor do salário mínimo, o número de horas trabalhadas, o número de dependentes do funcionário e a quantidade de horas extras trabalhadas. Calcule e mostre o salário a receber do funcionário de acordo com as regras a seguir.
 
-<h4>14. Faça um programa que receba o salário inicial de um funcionário, calcule e mostre o novo salário, <br>
-acrescido de bonificação e de auxílio escola.</h4>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q16R/src/br/edu/principal">16. </a>Um supermercado deseja reajustar os preços de seus produtos usando o seguinte critério: o produto poderá ter seu preço aumentado ou diminuído. Para o preço ser alterado, o produto deve preencher pelo menos um dos requisitos a seguir. Faça um programa que receba o preço atual e a venda média mensal do produto, calcule e mostre o novo preço.
 
-<h4>
-  15. Faça um programa que receba o valor do salário mínimo, o número de horas trabalhadas, o número <br>
-de dependentes do funcionário e a quantidade de horas extras trabalhadas. Calcule e mostre o salário <br>
-a receber do funcionário de acordo com as regras a seguir: <br>
-  <br>
-- O valor da hora trabalhada é igual a 1/5 do salário mínimo. <br>
-- O salário do mês é igual ao número de horas trabalhadas multiplicado pelo valor da hora trabalhada. <br>
-- Para cada dependente, acrescentar R$ 32,00. <br>
-- Para cada hora extra trabalhada, calcular o valor da hora trabalhada acrescida de 50%. <br>
-- O salário bruto é igual ao salário do mês mais o valor dos dependentes mais o valor das horas <br>
-extras. <br>
-- Calcular o valor do imposto de renda retido na fonte de acordo com a tabela a seguir: <br>
-- O salário líquido é igual ao salário bruto menos IRRF. <br>
-- A gratificação é de acordo com a tabela a seguir: <br>
-</h4>
-<h4>
-  16. Um supermercado deseja reajustar os preços de seus produtos usando o seguinte critério: o produto <br>
-  poderá ter seu preço aumentado ou diminuído. Para o preço ser alterado, o produto deve preencher <br>
-  pelo menos um dos requisitos a seguir: <br>
-  ... <br>
-  Faça um programa que receba o preço atual e a venda média mensal do produto, calcule e mostre o <br>
-novo preço.
-</h4>
-<h4>
-  17. Faça um programa para resolver equações do 2o grau.
-</h4>
-<h4>
-  18. Dados três valores X, Y e Z, verifique se eles podem ser os comprimentos dos lados de um triângulo <br>
-  e, se forem, verifique se é um triângulo equilátero, isósceles ou escaleno. Se eles não formarem um <br>
-  triângulo, escreva uma mensagem. Considere que: <br>
-  - o comprimento de cada lado de um triângulo é menor que a soma dos outros dois lados; <br>
-  - chama-se equilátero o triângulo que tem três lados iguais; <br>
-  - denomina-se isósceles o triângulo que tem o comprimento de dois lados iguais; <br>
-  - recebe o nome de escaleno o triângulo que tem os três lados diferentes. <br>
-</h4>
-<h4>
-  19. Faça um programa que receba a altura e o peso de uma pessoa. De acordo com a tabela a seguir, verifique <br>
-  e mostre a classificação dessa pessoa.
-</h4>
-<h4>
-  20. Faça um programa que receba:
-  - O código de um produto comprado, supondo que a digitação do código do produto seja sempre <br>
-  válida, isto é, um número inteiro entre 1 e 10. <br>
-  - O peso do produto em quilos. <br>
-  - O código do país de origem, supondo que a digitação do código seja sempre válida, isto é, um número <br>
-  inteiro entre 1 e 3. <br>
-  Tabelas: <br>
-  ... <br>
-  Calcule e mostre: <br>
-  - o peso do produto convertido em gramas; <br>
-  - o preço total do produto comprado; <br>
-  -  o valor do imposto, sabendo que ele é cobrado sobre o preço total do produto comprado e depende <br>
-  do país de origem; <br>
-  -  o valor total, preço total do produto mais imposto. <br>
-</h4>
-<h4>
-  21. Faça um programa que receba:
-  - o código do estado de origem da carga de um caminhão, supondo que a digitação do código do <br>
-  estado seja sempre válida, isto é, um número inteiro entre 1 e 5; <br>
-  - o peso da carga do caminhão em toneladas; <br>
-  - o código da carga, supondo que a digitação do código seja sempre válida, isto é, um número inteiro <br>
-  entre 10 e 40. <br>
-  Tabelas: <br>
-  ... <br>
-  Calcule e mostre: <br>
-  - o peso da carga do caminhão convertido em quilos; <br>
-  - o preço da carga do caminhão; <br>
-  - o valor do imposto, sabendo que o imposto é cobrado sobre o preço da carga do caminhão e depende <br>
-  do estado de origem; <br>
-  - o valor total transportado pelo caminhão, preço da carga mais imposto. <br>
-</h4>
-<h4>
-  22. Faça um programa que receba o salário base e o tempo de serviço de um funcionário. Calcule e mostre: <br>
-  - O imposto, conforme a tabela a seguir. <br>
-  ... <br>
-  - A gratificação, de acordo com a tabela a seguir. <br>
-  ... <br>
-  - O salário líquido, ou seja, salário base menos imposto mais gratificação. <br>
-  -  A categoria, que está na tabela a seguir. <br>
-  ... <br>
-</h4>
-<h4>
-  23. Faça um programa que receba o valor do salário mínimo, o turno de trabalho (M — matutino; V <br>
-  — vespertino; ou N — noturno), a categoria (O — operário; G — gerente) e o número de horas trabalhadas <br>
-  no mês de um funcionário. Suponha a digitação apenas de dados válidos e, quando houver <br>
-  digitação de letras, utilize maiúsculas. Calcule e mostre: <br>
-  - O coeficiente do salário, de acordo com a tabela a seguir. <br>
-  ... <br>
-  - O valor do salário bruto, ou seja, o número de horas trabalhadas multiplicado pelo valor do coeficiente <br>
-  do salário. <br>
-  - O imposto, de acordo com a tabela a seguir. <br>
-  ... <br>
-  - A gratificação, de acordo com as regras a seguir. <br>
-  Se o funcionário preencher todos os requisitos a seguir, sua gratificação será de <br>
-  R$ 50,00; caso contrário, será de R$ 30,00. Os requisitos são: <br>
-  Turno: Noturno <br>
-  Número de horas trabalhadas: Superior a 80 horas <br>
-  - O auxílio alimentação, de acordo com as seguintes regras. <br>
-  Se o funcionário preencher algum dos requisitos a seguir, seu auxílio alimentação será de um terço <br>
-  do seu salário bruto; caso contrário, será de metade do seu salário bruto. Os requisitos são: <br>
-  Categoria: Operário <br>
-  Coeficiente do salário: < = 25 <br>
-  - O salário líquido, ou seja, salário bruto menos imposto mais gratificação mais auxílio alimentação. <br>
-  - A classificação, de acordo com a tabela a seguir: <br>
-    ...
-</h4>
-<h4>
-  24. Faça um programa que receba o preço, o tipo (A — alimentação; L — limpeza; e V — vestuário) e a <br>
-  refrigeração (S — produto que necessita de refrigeração; e N — produto que não necessita de refrigeração) <br>
-  de um produto. Suponha que haverá apenas a digitação de dados válidos e, quando houver  <br>
-  digitação de letras, utilize maiúsculas. Calcule e mostre: <br>
-  - O valor adicional, de acordo com a tabela a seguir: <br>
-  ... <br>
-  O valor do imposto, de acordo com a regra a seguir. <br>
-  ... <br>
-  - O preço de custo, ou seja, preço mais imposto. <br>
-  - O desconto, de acordo com a regra a seguir. <br>
-  O produto que não preencher nenhum dos requisitos a seguir terá desconto de 3%, caso contrário, <br>
-  0 (zero). <br>
-  Os requisitos são: <br>
-  Tipo: A <br>
-  Refrigeração: S <br>
-  - O novo preço, ou seja, preço de custo mais adicional menos desconto. <br>
-  - A classificação, de acordo com a regra a seguir. <br>
-  ...
-</h4>
-<h4>
-  25. Faça um programa que receba a medida de um ângulo em graus. Calcule e mostre o quadrante em que <br>
-  se localiza esse ângulo. Considere os quadrantes da trigonometria e, para ângulos maiores que 360º ou <br>
-  menores que −360º, reduzi-los, mostrando também o número de voltas e o sentido da volta (horário <br>
-  ou anti-horário).
-</h4>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q17R/src/br/edu/principal">17. </a>Faça um programa para resolver equações do 2o grau.
+
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q18R/src/br/edu/principal">18. </a>Dados três valores X, Y e Z, verifique se eles podem ser os comprimentos dos lados de um triângulo e, se forem, verifique se é um triângulo equilátero, isósceles ou escaleno. Se eles não formarem um triângulo, escreva uma mensagem. Considere que: o comprimento de cada lado de um triângulo é menor que a soma dos outros dois lados; chama-se equilátero o triângulo que tem três lados iguais; denomina-se isósceles o triângulo que tem o comprimento de dois lados iguais; recebe o nome de escaleno o triângulo que tem os três lados diferentes.
+
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q19R/src/br/edu/principal">19. </a>Faça um programa que receba a altura e o peso de uma pessoa. De acordo com a tabela a seguir, verifique e mostre a classificação dessa pessoa.
+
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q20R/src/br/edu/principal">20. </a>Faça um programa que receba: - O código de um produto comprado, supondo que a digitação do código do produto seja sempre válida, isto é, um número inteiro entre 1 e 10; - O peso do produto em quilos; - O código do país de origem, supondo que a digitação do código seja sempre válida, isto é, um número inteiro entre 1 e 3. Calcule e mostre: <br>- o peso do produto convertido em gramas; <br>- o preço total do produto comprado; <br>- o valor do imposto, sabendo que ele é cobrado sobre o preço total do produto comprado e depende do país de origem; <br>- o valor total, preço total do produto mais imposto.
+
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q21R/src/br/edu/principal">21. </a>Faça um programa que receba: - o código do estado de origem da carga de um caminhão, supondo que a digitação do código do estado seja sempre válida, isto é, um número inteiro entre 1 e 5; - o peso da carga do caminhão em toneladas; - o código da carga, supondo que a digitação do código seja sempre válida, isto é, um número inteiro entre 10 e 40. Calcule e mostre: <br>- o peso da carga do caminhão convertido em quilos; <br>- o preço da carga do caminhão; <br>- o valor do imposto, sabendo que o imposto é cobrado sobre o preço da carga do caminhão e depende do estado de origem; <br>- o valor total transportado pelo caminhão, preço da carga mais imposto.
+
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q22R/src/br/edu/principal">22. </a>Faça um programa que receba o salário base e o tempo de serviço de um funcionário. Calcule e mostre: <br>- O imposto, conforme a tabela a seguir. <br>- A gratificação, de acordo com a tabela a seguir. <br>- O salário líquido, ou seja, salário base menos imposto mais gratificação. <br>- A categoria, que está na tabela a seguir.
+
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q23R/src/br/edu/principal">23. </a>Faça um programa que receba o valor do salário mínimo, o turno de trabalho (M — matutino; V — vespertino; ou N — noturno), a categoria (O — operário; G — gerente) e o número de horas trabalhadas no mês de um funcionário. Suponha a digitação apenas de dados válidos e, quando houver digitação de letras, utilize maiúsculas. Calcule e mostre: - O coeficiente do salário, de acordo com a tabela a seguir. <br>- O valor do salário bruto, ou seja, o número de horas trabalhadas multiplicado pelo valor do coeficiente do salário. <br>- O imposto, de acordo com a tabela a seguir. <br>- A gratificação, de acordo com as regras a seguir. <br><br>Se o funcionário preencher todos os requisitos a seguir, sua gratificação será de R$ 50,00; caso contrário, será de R$ 30,00. Os requisitos são: Turno: Noturno Número de horas trabalhadas: Superior a 80 horas - O auxílio alimentação, de acordo com as seguintes regras. Se o funcionário preencher algum dos requisitos a seguir, seu auxílio alimentação será de um terço do seu salário bruto; caso contrário, será de metade do seu salário bruto. Os requisitos são: <br>Categoria: Operário Coeficiente do salário: < = 25 - O salário líquido, ou seja, salário bruto menos imposto mais gratificação mais auxílio alimentação. <br>- A classificação, de acordo com a tabela a seguir.
+
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q24R/src/br/edu/principal">24. </a>Faça um programa que receba o preço, o tipo (A — alimentação; L — limpeza; e V — vestuário) e a refrigeração (S — produto que necessita de refrigeração; e N — produto que não necessita de refrigeração) de um produto. Suponha que haverá apenas a digitação de dados válidos e, quando houver digitação de letras, utilize maiúsculas. Calcule e mostre: - O valor adicional, de acordo com a tabela a seguir.<br> O valor do imposto, de acordo com a regra a seguir. <br>- O preço de custo, ou seja, preço mais imposto. <br>- O desconto, de acordo com a regra a seguir. <br>O produto que não preencher nenhum dos requisitos a seguir terá desconto de 3%, caso contrário, 0 (zero). <br>Os requisitos são: Tipo: A Refrigeração: S - O novo preço, ou seja, preço de custo mais adicional menos desconto. - A classificação, de acordo com a regra a seguir.
+
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%204/Q25R/src/br/edu/principal">25. </a>Faça um programa que receba a medida de um ângulo em graus. Calcule e mostre o quadrante em que se localiza esse ângulo. Considere os quadrantes da trigonometria e, para ângulos maiores que 360º ou menores que −360º, reduzi-los, mostrando também o número de voltas e o sentido da volta (horário ou anti-horário).
+
+
+
+
+
