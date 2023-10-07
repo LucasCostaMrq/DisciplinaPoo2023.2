@@ -6,7 +6,7 @@ Neste diretório, você encontrará um conjunto de atividades de programação e
 
 ## Questões Resolvidas
 
-Este diretório contém 25 questões resolvidas. Cada programa está organizado em pacotes Java dentro da pasta `Questões Resolvidas`. Abaixo, você encontrará a lista das questões resolvidas:
+Este diretório contém 25 questões resolvidas. Cada programa está organizado em pacotes Java dentro da pasta `Questões Resolvidas`. Abaixo, você encontrará exemplos das questões resolvidas:
 
 1. <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q1R/src/br/edu/principal/Principal.java">Q01R ou Q1R</a>
 2.  <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q2R/src/br/edu/principal/Principal.java">Q02R ou Q2R</a>
