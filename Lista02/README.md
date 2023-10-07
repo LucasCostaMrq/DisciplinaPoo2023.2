@@ -9,7 +9,7 @@ Neste diretório, você encontrará um conjunto de atividades de programação e
 
 ## Questões Resolvidas
 
-Este diretório contém 25 questões resolvidas para cada um dos tópicos, totalizando 50 questões. Cada programa está organizado em pacotes Java dentro da pasta `Questões Resolvidas` de cada capítulo, dentro das pastas `br.edu.principal`. Abaixo, você encontrará a lista das questões resolvidas para cada tópico:
+Este diretório contém 25 questões resolvidas para cada um dos tópicos, totalizando 50 questões. Cada programa está organizado em pacotes Java dentro da pasta `Questões Resolvidas` de cada capítulo, dentro das pastas `br.edu.principal`. Abaixo, você encontrará exemplos das questões resolvidas para cada tópico:
 
 ### Estrutura Condicional
 
