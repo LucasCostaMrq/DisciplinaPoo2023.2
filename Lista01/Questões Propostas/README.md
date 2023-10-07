@@ -9,7 +9,7 @@
 
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Propostas/Q12P/src/br/edu/principal/Principal.java">12. </a>Faça um programa que receba o valor do salário mínimo e o valor do salário de um funcionário, calcule e mostre a quantidade de salários mínimos que esse funcionário ganha.
 
-<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Propostas/Q14P/src/br/edu/principal/Principal.java">14. </a>Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre: a) a idade dessa pessoa em anos; b) a idade dessa pessoa em meses; c) a idade dessa pessoa em dias; d) a idade dessa pessoa em semanas.
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Propostas/Q14P/src/br/edu/principal/Principal.java">14. </a>Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre: <br>a) a idade dessa pessoa em anos; <br>b) a idade dessa pessoa em meses; <br>c) a idade dessa pessoa em dias; <br>d) a idade dessa pessoa em semanas.
 
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Propostas/Q15P/src/br/edu/principal/Principal.java">15. </a>João recebeu seu salário e precisa pagar duas contas atrasadas. Em razão do atraso, ele deverá pagar multa de 2% sobre cada conta. Faça um programa que calcule e mostre quanto restará do salário de João.
 
