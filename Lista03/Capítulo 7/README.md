@@ -12,7 +12,7 @@
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%207/Q9R/src/br/edu/principal/Principal.java">9.</a> Crie um programa que preencha uma matriz 15 x 5 com números inteiros, calcule e mostre quais elementos da matriz se repetem e quantas vezes cada um se repete. <br><br>
 <hr>
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%207/Q19R/src/br/edu/principal/Principal.java">19.</a> Faça um programa que utilize uma matriz com dimensões máximas de cinco linhas e quatro colunas. Solicite que sejam digitados os números que serão armazenados na matriz da seguinte maneira: <br>
-<hr>
+
 se o número digitado for par, deve ser armazenado em uma linha de índice par; <br>
 se o número digitado for ímpar, deve ser armazenado em uma linha de índice ímpar; <br>
 as linhas devem ser preenchidas de cima para baixo; <br>
