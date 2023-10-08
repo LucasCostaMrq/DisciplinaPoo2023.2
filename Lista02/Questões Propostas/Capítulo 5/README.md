@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Capítulo 5: Estrutura de Repetição</h1><img align="center" alt="Lucas-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <h1 align="center">Capítulo 5: Estrutura de Repetição<img align="center" alt="Lucas-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></h1>
 </div>
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%205/Q3P/src/br/edu/principal/Principal.java">3.</a> Faça um programa que receba a idade de oito pessoas, calcule e mostre:
     <ul>
