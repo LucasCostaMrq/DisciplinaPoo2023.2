@@ -8,6 +8,7 @@
       <li>c) a porcentagem de pessoas na última faixa etária com relação ao total de pessoas</li>
     </ul>
   </li> 
+  <hr>
     <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%205/Q19P/src/br/edu/principal/Principal.java">19.</a> Faça um programa que receba o tipo da ação, ou seja, uma letra a ser comercializada na bolsa de valores, o preço de compra e o preço de venda de cada ação e que calcule e mostre:
     <ul>
       <li>o lucro de cada ação comercializada;</li>
@@ -15,6 +16,7 @@
       <li>a quantidade de ações com lucro inferior a R$ 200,00;</li>
       <li>o lucro total da empresa.</li>
     </ul>
+    <hr>
     <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%205/Q21P/src/br/edu/principal/Principal.java">21.</a> Em uma eleição presidencial existem quatro candidatos. Os votos são informados por meio de código. Os códigos utilizados são:
     <ul>
       <li>...</li>
@@ -27,6 +29,7 @@
       <li>a porcentagem de votos nulos sobre o total de votos;</li>
       <li>a porcentagem de votos em branco sobre o total de votos.</li>
     </ul>
+    <hr>
     Para finalizar o conjunto de votos, tem-se o valor zero e, para códigos inválidos, o programa deverá mostrar uma mensagem. <br> <br>
     <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%205/Q23P/src/br/edu/principal/Principal.java">23.</a> Faça um programa que apresente o menu de opções a seguir, que permita ao usuário escolher a opção desejada, receba os dados necessários para executar a operação e mostre o resultado. Verifique a possibilidade de opção inválida e não se preocupe com as restrições como salário inválido.
     <ul>
@@ -44,6 +47,7 @@
         <li>Na opção 4: sair do programa.</li>
       </ul>
     </ul>
+    <hr>
     <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/tree/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%205/Q24P/src/br/edu/principal/Principal.java">24.</a> Faça um programa que receba um conjunto de valores inteiros e positivos, calcule e mostre o maior e o menor valor do conjunto. Considere que:
     <ul>
       <li>para encerrar a entrada de dados, deve ser digitado o valor zero;</li>
