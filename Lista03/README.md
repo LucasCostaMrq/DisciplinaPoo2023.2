@@ -27,8 +27,9 @@ A seguir, veremos alguns exemplos de atividades de cada capítulo
 <hr>
 
 ### Capítulo: Sub-rotina
-
-
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%208/Q21R/src/br/edu/principal/Principal.java">Q21R</a> <br>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%208/Q23R/src/br/edu/principal/Principal.java">Q23R</a> <br>
+<a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%208/Q3R/src/br/edu/principal/Principal.java">Q03R ou Q3R</a> <br>
 <hr>
 
 ## Como Executar os Programas
