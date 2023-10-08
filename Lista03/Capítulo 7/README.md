@@ -5,17 +5,17 @@
   </h1>
 </div>
 <p>
-  4. Crie um programa que preencha uma matriz 10  20 com números inteiros e some cada uma das linhas,
+  4. Crie um programa que preencha uma matriz 10 x 20 com números inteiros e some cada uma das linhas,
   armazenando o resultado das somas em um vetor. A seguir, o programa deverá multiplicar cada
   elemento da matriz pela soma da linha correspondente e mostrar a matriz resultante. <br>
   <br>
   <hr>
-  6. Crie um programa que preencha uma primeira matriz de ordem 4  5 e uma segunda matriz 5  2.
+  6. Crie um programa que preencha uma primeira matriz de ordem 4 x 5 e uma segunda matriz 5  2.
   O programa deverá, também, calcular e mostrar a matriz resultante do produto matricial das duas
-  matrizes anteriores, armazenando-o em uma terceira matriz de ordem 4  2. <br>
+  matrizes anteriores, armazenando-o em uma terceira matriz de ordem 4 x 2. <br>
   <br>
   <hr>
-  9. Crie um programa que preencha uma matriz 15  5 com números inteiros, calcule e mostre quais 
+  9. Crie um programa que preencha uma matriz 15 x 5 com números inteiros, calcule e mostre quais 
   elementos da matriz se repetem e quantas vezes cada um se repete. <br>
   <br>
   <hr>
@@ -38,7 +38,7 @@
   <br>
   <hr>
   22. Faça um programa que receba o estoque atual de três produtos, armazenados em quatro armazéns, e
-  coloque esses dados em uma matriz 5  3. Considerando que a última linha dessa matriz contenha o
+  coloque esses dados em uma matriz 5 x 3. Considerando que a última linha dessa matriz contenha o
   custo de cada produto, o programa deverá calcular e mostrar: <br>
   -- a quantidade de itens quadrados em cada armazém; <br>
   -- qual armazém possui maior estoque do produto 2; <br>
