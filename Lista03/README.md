@@ -14,13 +14,22 @@ Bem-vindo ao diretório de atividades dos Capítulos 6, 7 e 8! Este repositório
 Cada Atividade está localizada dentro de pastas, as quais começam com QXR (Questão X Resolvida), representando qual questão da lista das questões resolvidas ela é. Logo após entrar nessa pasta, o usoário deve ir em `src`, nessa pasta estarão outras duas pastas, o `bin` e o `br`, a pasta `bin` irá lhe direcionar para o arquivo da classe `Principal.class` do nosso arquivo em java, para acessar o arquivo `Principal.java`, vá para o package (pacote) `br.edu.principal`.
 
 A seguir, veremos alguns exemplos de atividades de cada capítulo
+<hr>
+
 ### Capítulo: Vetor
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%206/Q11R/src/br/edu/principal/Principal.java">Q11R</a> <br>
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%206/Q22R/src/br/edu/principal/Principal.java">Q22R</a> <br>
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%206/Q25R/src/br/edu/principal/Principal.java">Q25R</a> <br>
+
 ### Capítulo: Matriz
 
+
+<hr>
+
 ### Capítulo: Sub-rotina
+
+
+<hr>
 
 ## Como Executar os Programas
 
