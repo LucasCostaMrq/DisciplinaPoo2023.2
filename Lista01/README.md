@@ -4,6 +4,8 @@
 
 Neste diretório, você encontrará um conjunto de atividades de programação em Java focadas em estruturas sequenciais. As atividades estão divididas em Questões Resolvidas e Questões Propostas, em que cada arquivo se encontra nas pastas `br/edu/principal`.
 
+<hr>
+
 ## Questões Resolvidas
 
 Este diretório contém 25 questões resolvidas. Cada programa está organizado em pacotes Java dentro da pasta `Questões Resolvidas`. Abaixo, você encontrará exemplos das questões resolvidas:
@@ -13,7 +15,10 @@ Este diretório contém 25 questões resolvidas. Cada programa está organizado 
 3. ...
 4.  <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Resolvidas/Q25R/src/br/edu/principal/Principal.java">Q25R</a>
 
+<hr>
+
 ## Questões Propostas
+
 
 Além das questões resolvidas, também temos 10 questões propostas, as quais foram sorteadas aleatoriamente. Você pode usar essas questões como exercícios práticos para testar suas habilidades em estruturas sequenciais. Elas estão localizadas na pasta `Questões Propostas`:
 
@@ -21,6 +26,8 @@ Além das questões resolvidas, também temos 10 questões propostas, as quais f
 2. <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Propostas/Q10P/src/br/edu/principal/Principal.java">Q10P</a>
 3. ...
 4. <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista01/Quest%C3%B5es%20Propostas/Q24P/src/br/edu/principal/Principal.java">Q24P</a>
+
+<hr>
 
 ## Como Executar os Programas
 
