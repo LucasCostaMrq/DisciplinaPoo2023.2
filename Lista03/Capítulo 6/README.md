@@ -5,20 +5,19 @@
   </h1>
 </div>
 <p>
-  1. Faça um programa que preencha um vetor com nove números inteiros, calcule e mostre os números 
-  primos e suas respectivas posições. <br>
+  <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%206/Q1R/src/br/edu/principal/Principal.java">1. </a>Faça um programa que preencha um vetor com nove números inteiros, calcule e mostre os números primos e suas respectivas posições. <br>
   <br>
   <hr>
-  11. Faça um programa que receba a temperatura média de cada mês do ano, armazenando-as em um vetor. 
+  <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%206/Q11R/src/br/edu/principal/Principal.java">11. </a>Faça um programa que receba a temperatura média de cada mês do ano, armazenando-as em um vetor. 
   Calcule e mostre a maior e a menor temperatura do ano e em que mês ocorreram (mostrar o mês por
   extenso: 1 – janeiro, 2 – fevereiro...). Desconsidere empates. <br>
   <br>
   <hr>
-  18. Faça um programa que receba o número sorteado por um dado em vinte jogadas. Mostre os números
+  <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%206/Q18R/src/br/edu/principal/Principal.java">18. </a>Faça um programa que receba o número sorteado por um dado em vinte jogadas. Mostre os números
   sorteados e a frequência com que apareceram. <br>
   <br>
   <hr>
-  22. Faça um programa que simule um controle bancário. Para tanto, devem ser lidos os códigos de dez
+  <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%206/Q22R/src/br/edu/principal/Principal.java">22. </a>Faça um programa que simule um controle bancário. Para tanto, devem ser lidos os códigos de dez
   contas e seus respectivos saldos. Os códigos devem ser armazenados em um vetor de números inteiros
   (não pode haver mais de uma conta com o mesmo código) e os saldos devem ser armazenados em um
   vetor de números reais. O saldo deverá ser cadastrado na mesma posição do código. Por exemplo, se
@@ -47,6 +46,6 @@
   -- o programa só termina quando for digitada a opção 4 — Finalizar o programa. <br>
   <br>
   <hr>
-  25. Faça um programa que gere os dez primeiros números primos acima de 100 e armazene-os em um
+  <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista03/Cap%C3%ADtulo%206/Q25R/src/br/edu/principal/Principal.java">25. </a>Faça um programa que gere os dez primeiros números primos acima de 100 e armazene-os em um
   vetor. Escreva no final o vetor resultante.
 </p>
