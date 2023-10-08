@@ -4,17 +4,20 @@
     <img align="center" alt="Lucas-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </h1>
 </div>
-<h4>
+<p>
   1. Faça um programa que preencha um vetor com nove números inteiros, calcule e mostre os números 
   primos e suas respectivas posições. <br>
   <br>
+  <hr>
   11. Faça um programa que receba a temperatura média de cada mês do ano, armazenando-as em um vetor. 
   Calcule e mostre a maior e a menor temperatura do ano e em que mês ocorreram (mostrar o mês por
   extenso: 1 – janeiro, 2 – fevereiro...). Desconsidere empates. <br>
   <br>
+  <hr>
   18. Faça um programa que receba o número sorteado por um dado em vinte jogadas. Mostre os números
   sorteados e a frequência com que apareceram. <br>
   <br>
+  <hr>
   22. Faça um programa que simule um controle bancário. Para tanto, devem ser lidos os códigos de dez
   contas e seus respectivos saldos. Os códigos devem ser armazenados em um vetor de números inteiros
   (não pode haver mais de uma conta com o mesmo código) e os saldos devem ser armazenados em um
@@ -43,6 +46,7 @@
   <br>
   -- o programa só termina quando for digitada a opção 4 — Finalizar o programa. <br>
   <br>
+  <hr>
   25. Faça um programa que gere os dez primeiros números primos acima de 100 e armazene-os em um
   vetor. Escreva no final o vetor resultante.
-</h4>
+</p>
