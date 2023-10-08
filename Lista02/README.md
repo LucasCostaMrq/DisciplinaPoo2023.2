@@ -10,6 +10,7 @@ Neste diretório, você encontrará um conjunto de atividades de programação e
 ## Questões Resolvidas
 
 Este diretório contém 25 questões resolvidas para cada um dos tópicos, totalizando 50 questões. Cada programa está organizado em pacotes Java dentro da pasta `Questões Resolvidas` de cada capítulo, dentro das pastas `br.edu.principal`. Abaixo, você encontrará exemplos das questões resolvidas para cada tópico:
+<hr>
 
 ### Estrutura Condicional
 
@@ -24,6 +25,7 @@ Este diretório contém 25 questões resolvidas para cada um dos tópicos, total
 27. <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%205/Q2R/src/br/edu/principal/Principal.java">Q02R ou Q2R</a>
 28. ...
 50. <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Resolvidas/Cap%C3%ADtulo%205/Q25R/src/br/edu/principal/Principal.java">Q25R</a>
+<hr>
 
 ## Questões Propostas
 
@@ -40,6 +42,7 @@ Exemplos de Atividades: <br>
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%205/Q3P/src/br/edu/principal/Principal.java">Q03P ou Q3P</a> <br>
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%205/Q19P/src/br/edu/principal/Principal.java">Q19P</a> <br>
 <a href="https://github.com/LucasCostaMrq/DisciplinaPoo2023.2/blob/main/Lista02/Quest%C3%B5es%20Propostas/Cap%C3%ADtulo%205/Q24P/src/br/edu/principal/Principal.java">Q24P</a> <br>
+<hr>
 
 ## Como Executar os Programas
 
